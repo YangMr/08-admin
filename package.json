@@ -1,0 +1,23 @@
+{
+  "name": "08-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YangMr/08-admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YangMr/08-admin/issues"
+  },
+  "homepage": "https://github.com/YangMr/08-admin#readme",
+  "dependencies": {
+    "loadsh": "0.0.4",
+    "swiper": "^8.2.4"
+  }
+}
